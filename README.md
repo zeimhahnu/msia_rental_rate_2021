@@ -4,8 +4,9 @@ New Initiative Team is created to diversify Pos Malaysia's portfolio, identify n
 The current project that the New Initiative Team is currently (as of 2022) working on how to monetize the underutilized space in each post office outlets across Malaysia.
 Our team is not only aim to become a landlord but to form a strategic partnership with other retailers from different categories ranging from Pharceutical, Convenience Store, to Healthscreening etc.
 Hence, the purpose of this Rental Rate Dashboard allows my team and I to make strategic decision on negotiation of the commercial terms between Pos Malaysia and other businesses.
+This dashboard is created using Microsoft Excel, and the users can identify the location of interest by filtering states, districts, building types, rurality, or search the particular location.  
 
-<img src="dashboard.png" width ="500">
+<img src="Dashboard.png" width ="800">
 
 
 
