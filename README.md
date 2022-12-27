@@ -5,7 +5,7 @@ The current project that the New Initiative Team is currently (as of 2022) worki
 Our team is not only aim to become a landlord but to form a strategic partnership with other retailers from different categories ranging from Pharceutical, Convenience Store, to Healthscreening etc.
 Hence, the purpose of this Rental Rate Dashboard allows my team and I to make strategic decision on negotiation of the commercial terms between Pos Malaysia and other businesses.
 
-
+<img src="dashboard.png" width ="500">
 
 
 
